@@ -38,19 +38,19 @@
   
 <div align="center">
  
-[![Amit's GitHub stats](https://github-readme-stats-sumitst05.vercel.app/api?username=amitsuthar69&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+[![Amit's GitHub stats](https://github-readme-stats-sumitst05.vercel.app/api?username=amitsuthar69&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)]()
   
 </div>
   
 <div align = "center"> 
   
-[![Top Langs](https://github-readme-stats-sumitst05.vercel.app/api/top-langs/?username=amitsuthar69&hide=GLSL&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sumitst05.vercel.app/api/top-langs/?username=amitsuthar69&hide=GLSL&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)]()
 
 </div>
 
 <div align = "center">
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amitsuthar69&hide=GLSL&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](ttps://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amitsuthar69&hide=GLSL&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)]()
 
 </div>
 </span>
