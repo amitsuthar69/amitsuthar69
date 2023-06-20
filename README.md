@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **AIML, C++, Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.amitsuthar.repl.co/](https://portfolio.amitsuthar.repl.co/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio.amitsuthar.repl.co/)
 
 - 💬 Ask me about **C++, JavaScript**
 
 - 📫 How to reach me **sutharamit707@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bDtq6Si0bWaGRErNN89nwfgZ-MZyYp7n/view?usp=sharing](https://drive.google.com/file/d/1bDtq6Si0bWaGRErNN89nwfgZ-MZyYp7n/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bDtq6Si0bWaGRErNN89nwfgZ-MZyYp7n/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
