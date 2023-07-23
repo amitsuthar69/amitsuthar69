@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://amitsuthar69.github.io/Portfolio/)
 
-- 💬 Ask me about **C++, JavaScript**
+- 💬 Ask me about **HTML5, Tailwind CSS, JavaScript, Astro JS**
 
 - 📫 How to reach me **sutharamit707@gmail.com**
 
