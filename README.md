@@ -38,7 +38,7 @@
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amitsuthar69&hide=GLSL&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)]()
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&theme=dark&show_icons=true)
 
 </div>
 </span>
