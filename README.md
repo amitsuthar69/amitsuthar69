@@ -38,7 +38,9 @@
 
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsuthar69)](https://github.com/amitsuthar69/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsuthar69&layout=compact)
+
 
 </div>
 </span>
