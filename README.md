@@ -34,11 +34,7 @@
 
 <div align = "center">
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&theme=dark&show_icons=true&hide=css)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsuthar69&layout=compact&theme=dark)
-
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&hide=css&theme=dark&show_icons=true)
 
 </div>
 </span>
