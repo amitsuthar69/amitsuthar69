@@ -36,5 +36,7 @@
 
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&hide=css&theme=dark&show_icons=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=amitsuthar69&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 </span>
