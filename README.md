@@ -34,11 +34,11 @@
 
 <div align = "center">
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&hide=css&theme=dark&show_icons=true)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&hide_border=true&theme=dark&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amitsuthar69&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&show_icons=true&locale=en&theme=dark&hide=css&layout=compact" alt="amitsuthar69" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&show_icons=true&locale=en&hide_border=true&theme=dark&hide=css&layout=compact" alt="amitsuthar69" /></p>
 
 </div>
 </span>
