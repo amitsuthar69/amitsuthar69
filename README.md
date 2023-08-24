@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6&style=flat" alt="amitsuthar69" /> </p>
 
-- 🔭 I've worked on [Tim-E-Scape](https://sumitst05.itch.io/tim-e-scape)
+- 🔭 Frontend Developer at [TCET Open Source](https://github.com/orgs/tcet-opensource/teams/frontend-team)
 
-- 🌱 I’m currently learning **AIML, C++, Frontend Development**
+- 🌱 I’m currently learning **AIML, DSA, Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://amitsuthar69.github.io/Portfolio/)
 
