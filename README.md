@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6&style=flat" alt="amitsuthar69" /> </p>
 
-- 🔭 Frontend Developer at [TCET Open Source](https://github.com/orgs/tcet-opensource/teams/frontend-team)
+- 🔭 Frontend Developer at [TCET Open Source](https://github.com/tcet-opensource)
 
 - 🌱 I’m currently learning **AIML, DSA, Full Stack Development**
 
