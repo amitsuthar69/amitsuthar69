@@ -1,4 +1,4 @@
-<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQEO0Y0Rwn3xZA/profile-displaybackgroundimage-shrink_350_1400/0/1688066021715?e=1697068800&v=beta&t=5L1A40dyZ8-u1m1yRFKos9z-o51gI6Dzf3mykaeXibk" />
+<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQEW9JmDEcHTgA/profile-displaybackgroundimage-shrink_350_1400/0/1693041746395?e=1698278400&v=beta&t=UykVkFANLMCByxo8PEhfzuQdu4P9x8pV-t-7fHZ635E" />
 
 <h1 align="center" style="font-weight: bold">Hi 👋, I'm Amit Suthar </h1>
 <h3 align="center">Competitive Programmer and Open Source Contributer</h3>
