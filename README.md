@@ -38,7 +38,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amitsuthar69&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&show_icons=true&locale=en&hide_border=true&theme=dark&hide=css&layout=compact" alt="amitsuthar69" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&show_icons=true&locale=en&hide_border=true&theme=dark&hide=css,html&layout=compact" alt="amitsuthar69" /></p>
 
 </div>
 </span>
