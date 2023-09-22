@@ -1,5 +1,4 @@
-<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQEW9JmDEcHTgA/profile-displaybackgroundimage-shrink_350_1400/0/1693041746395?e=1698278400&v=beta&t=UykVkFANLMCByxo8PEhfzuQdu4P9x8pV-t-7fHZ635E" />
-
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
 <h1 align="center" style="font-weight: bold">Hi 👋, I'm Amit Suthar </h1>
 <h3 align="center">Competitive Programmer and Open Source Contributer</h3>
 
@@ -46,6 +45,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=amitsuthar69&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&show_icons=true&locale=en&hide_border=true&theme=dark&hide=css,html&layout=compact" alt="amitsuthar69" /></p>
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amitsuthar69&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 </div>
 </span>
