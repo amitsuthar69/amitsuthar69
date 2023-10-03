@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AIML, DSA, Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://amitsuthar69.github.io/Portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [Portfolio](https://amitsuthar69.github.io/Portfolio/) -->
 
 - 📫 How to reach me **sutharamit707@gmail.com**
 
@@ -47,12 +47,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&show_icons=true&locale=en&hide_border=true&theme=dark&hide=css,html&layout=compact" alt="amitsuthar69" /></p>
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amitsuthar69&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amitsuthar69&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ---
-<h3 align="center" style="font-weight: bold" > Badges  </h3>
-<img width="20%" alt="illa-badge" src="https://github.com/amitsuthar69/amitsuthar69/assets/111864432/77cda1fe-33ce-4bda-93ad-86267c0000f9" />
-<img width="20%" alt="digi-ocean-badge" src="https://github.com/amitsuthar69/amitsuthar69/assets/111864432/3e55ef5c-6ee1-4aeb-be20-4e146618d343" />
+
+<img width="30%" alt="illa-badge" src="https://github.com/amitsuthar69/amitsuthar69/assets/111864432/77cda1fe-33ce-4bda-93ad-86267c0000f9" />
+<img width="30%" alt="digi-ocean-badge" src="https://github.com/amitsuthar69/amitsuthar69/assets/111864432/3e55ef5c-6ee1-4aeb-be20-4e146618d343" />
 
 </div>
-</span>
