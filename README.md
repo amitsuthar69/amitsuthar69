@@ -42,11 +42,17 @@
 
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&hide_border=true&theme=dark&show_icons=true)
 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=amitsuthar69&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&show_icons=true&locale=en&hide_border=true&theme=dark&hide=css,html&layout=compact" alt="amitsuthar69" /></p>
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amitsuthar69&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+---
+<h3 align="center" style="font-weight: bold" > Badges  </h3>
+<img width="20%" alt="illa-badge" src="https://github.com/amitsuthar69/amitsuthar69/assets/111864432/77cda1fe-33ce-4bda-93ad-86267c0000f9" />
+<img width="20%" alt="digi-ocean-badge" src="https://github.com/amitsuthar69/amitsuthar69/assets/111864432/3e55ef5c-6ee1-4aeb-be20-4e146618d343" />
 
 </div>
 </span>
