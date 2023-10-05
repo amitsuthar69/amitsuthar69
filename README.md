@@ -1,5 +1,5 @@
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
-<h1 align="center" style="font-weight: bold">Hi 👋, I'm Amit Suthar </h1>
+<h1 align="center" style="font-weight: bold">Hi 👋, I'm Amit Suthar </h1> 
 <h3 align="center">Competitive Programmer and Open Source Contributer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6&style=flat" alt="amitsuthar69" /> </p>
@@ -46,11 +46,19 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amitsuthar69&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&show_icons=true&locale=en&hide_border=true&theme=dark&hide=css,html&layout=compact" alt="amitsuthar69" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&show_icons=true&locale=en&hide_border=true&theme=dark&hide=css,html&layout=compact" alt="amitsuthar69" /></p> -->
+
+---
+<h3>Holopin Hacktoberfest23 Badges</h3>
+
+[![An image of @amitsuthar69's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitsuthar69)](https://holopin.io/@amitsuthar69)
 
 ---
 
-[![An image of @amitsuthar69's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitsuthar69)](https://holopin.io/@amitsuthar69)
+<h3>Other Badges</h3>
+<img width="45px" src="https://files.codingninjas.in/badge-beginner-s-23111.svg" />
+<img width="50px" src="https://files.codingninjas.in/master_active-26065.svg" />
+<img width="50px" src="https://files.codingninjas.in/grand_master_active-26063.svg" />
 
 ---
 
