@@ -59,6 +59,7 @@
 <img width="45px" src="https://files.codingninjas.in/badge-beginner-s-23111.svg" />
 <img width="50px" src="https://files.codingninjas.in/master_active-26065.svg" />
 <img width="50px" src="https://files.codingninjas.in/grand_master_active-26063.svg" />
+<img width="50px" src="https://files.codingninjas.in/ninja_dominator_active-26066.svg" />
 
 ---
 
