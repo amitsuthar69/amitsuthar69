@@ -1,5 +1,5 @@
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
-<h1 align="center" style="font-weight: bold">Hi 👋, I'm Amit Suthar </h1> 
+<h1 align="center" style="font-weight: bold">Hi 👋, I'm Amit Suthar</h1>
 <h3 align="center">Competitive Programmer and Open Source Contributer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6&style=flat" alt="amitsuthar69" /> </p>
@@ -56,10 +56,10 @@
 ---
 
 <h3>Other Badges</h3>
-<img width="45px" src="https://files.codingninjas.in/badge-beginner-s-23111.svg" />
-<img width="50px" src="https://files.codingninjas.in/master_active-26065.svg" />
-<img width="50px" src="https://files.codingninjas.in/grand_master_active-26063.svg" />
-<img width="50px" src="https://files.codingninjas.in/ninja_dominator_active-26066.svg" />
+<a href="https://www.codingninjas.com/studio/profile/396dfce9-5d8c-4c1f-8b63-0fbb984b5448"><img width="40px" src="https://files.codingninjas.in/s_48_practice_topc_level_1-24345.svg" /></a> 
+<a href="https://www.codingninjas.com/studio/profile/396dfce9-5d8c-4c1f-8b63-0fbb984b5448"><img width="40px" src="https://files.codingninjas.in/master_active-26065.svg" /></a> 
+<a href="https://www.codingninjas.com/studio/profile/396dfce9-5d8c-4c1f-8b63-0fbb984b5448"><img width="40px" src="https://files.codingninjas.in/grand_master_active-26063.svg" /></a> 
+<a href="https://www.codingninjas.com/studio/profile/396dfce9-5d8c-4c1f-8b63-0fbb984b5448"><img width="40px" src="https://files.codingninjas.in/ninja_dominator_active-26066.svg" /></a> 
 
 ---
 
