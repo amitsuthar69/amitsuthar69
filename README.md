@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1u5_j74tsmx5rhKHs-PczDUKy4lEVi6iN/view)
 <hr>
-<h3 align="center" style="font-weight: bold" >Connect with me:</h3>
+<h3 align="center" style="font-weight: bold" >Find me at:</h3>
 
 <p align="center">
 <a href="https://twitter.com/oyee_amitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oyee_amitt" height="30" width="40" /></a>
@@ -23,6 +23,7 @@
 <a href="https://www.hackerrank.com/sutharamit707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sutharamit707" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sutharamit707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sutharamit707" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sutharat2ws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sutharat2ws" height="30" width="40" /></a>
+<a href="https://www.holopin.io/@amitsuthar69" target="blank"><img align="center" width="35px" src="https://www.holopin.io/_next/static/media/logo.17c858c3.png" /></a>
 </p>
 <hr>
 <h3 align="center" style="font-weight: bold" >Languages and Tools:</h3>
