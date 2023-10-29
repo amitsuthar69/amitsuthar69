@@ -56,14 +56,6 @@
 
 ---
 
-<h3>Other Badges</h3>
-<a href="https://www.codingninjas.com/studio/profile/396dfce9-5d8c-4c1f-8b63-0fbb984b5448"><img width="40px" src="https://files.codingninjas.in/s_48_practice_topc_level_1-24345.svg" /></a> 
-<a href="https://www.codingninjas.com/studio/profile/396dfce9-5d8c-4c1f-8b63-0fbb984b5448"><img width="40px" src="https://files.codingninjas.in/master_active-26065.svg" /></a> 
-<a href="https://www.codingninjas.com/studio/profile/396dfce9-5d8c-4c1f-8b63-0fbb984b5448"><img width="40px" src="https://files.codingninjas.in/grand_master_active-26063.svg" /></a> 
-<a href="https://www.codingninjas.com/studio/profile/396dfce9-5d8c-4c1f-8b63-0fbb984b5448"><img width="40px" src="https://files.codingninjas.in/ninja_dominator_active-26066.svg" /></a> 
-
----
-
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amitsuthar69&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 
