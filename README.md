@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sutharamit707@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://devfolio-prod.s3.ap-south-1.amazonaws.com/resumes/e569d479b5024069b39d0cd3fe25660f.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZEDGU5HTZYBZJTPN%2F20231127%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20231127T124123Z&X-Amz-Expires=20&X-Amz-Signature=32687fd3e417b985cbe68e733f874ccab8c1508221696a6f91357687a0a0be31&X-Amz-SignedHeaders=host)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UYIVauKIDak7rCgcaON3RVYTjRiwgeqL/view?usp=sharing)
 <hr>
 <h3 align="center" style="font-weight: bold" >Find me at:</h3>
 
