@@ -47,7 +47,7 @@
 | [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | HTML, CSS, JS, PhasorJs |
 | [**🔗 TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) |  ReactJs, Tailwind CSS  |
 | [**🔗 GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    |  ReactJs, Tailwind CSS  |
-| [**🔗 Next-Blog**](https://github.com/amitsuthar69/next-blog)                         |  NextJs, Tailwind CSS   |
+| [**🔗 Next-Blog**](https://github.com/amitsuthar69/next-blog)                         |  NextJs, TypeScript, Tailwind CSS   |
 
 ---
 
@@ -56,6 +56,7 @@
 | Project List                                                                  |            Languages             |
 | ----------------------------------------------------------------------------- | :------------------------------: |
 | [**🔗 Programming Notes**](https://github.com/amitsuthar69/Programming-Notes) | C++, DSA, JavaScript, TypeScript |
+| [**🔗 HandOver**](https://github.com/amitsuthar69/handOver) | NextJs, TypeScript, Tailwind CSS |
 
 ---
 
