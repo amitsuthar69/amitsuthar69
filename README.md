@@ -1,6 +1,6 @@
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
 <h1 align="center" style="font-weight: bold">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm Amit Suthar</h1>
-<h3 align="center">Competitive Programmer and Open Source Contributer</h3>
+<h3 align="center">Frontend ReactJs Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6&style=flat" alt="amitsuthar69" /> </p>
 
@@ -40,7 +40,7 @@
 
 ---
 
-### 💡 Projects where I contributed
+### 💡 Projects where I've contributed
 
 | Project List                                                                          |        Languages        |
 | ------------------------------------------------------------------------------------- | :---------------------: |
@@ -75,11 +75,5 @@
 ---
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amitsuthar69&theme=tokyo-night&radius=16)
-
----
-
-### 🎧 Listen with me in spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rm7xohewnhwarxnf4r35vb52z4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
