@@ -14,7 +14,7 @@
 
 ### 🌱 I’m currently learning
   
- - Go
+ - Go and HTMX
  - Full-Stack development
  - Data Structures and Algorithms
 
