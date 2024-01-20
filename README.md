@@ -14,9 +14,10 @@
 
 ### 🌱 I’m currently learning
   
- - Go and HTMX
- - Full-Stack development
- - Data Structures and Algorithms
+ - Go and Backend development.
+ - Data Structures and Algorithms.
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65410ecbc5b7df990dfde00e?variant=dark)](https://roadmap.sh)
 
 ---
 
