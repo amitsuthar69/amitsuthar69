@@ -4,9 +4,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6" alt="amitsuthar69" /> </p>
 
-- 🔭 Frontend Developer at [TCET Open Source](https://github.com/tcet-opensource)
+- 👨‍💻 Frontend Developer at [TCET Open Source](https://github.com/tcet-opensource)
 
-- 📫 How to reach me **sutharamit707@gmail.com**
+- 📫 Reach me at **sutharamit707@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://sutharamit707.hackerresume.io/9eb44265-87f3-49df-87a8-3edd6608d66c)
 
@@ -46,14 +46,15 @@
 
 ---
 
-### 💡 Projects where I've contributed
+### 💡 Projects I've built / contributed to
 
 | Project List                                                                          |        Languages        |
 | ------------------------------------------------------------------------------------- | :---------------------: |
-| [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | HTML, CSS, JS, PhasorJs |
-| [**🔗 TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) |  ReactJs, Tailwind CSS  |
-| [**🔗 GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    |  ReactJs, Tailwind CSS  |
+| [**🔗 HandOver**](https://github.com/amitsuthar69/handOver)                           | NextJs, TypeScript, Tailwind CSS |
 | [**🔗 Next-Blog**](https://github.com/amitsuthar69/next-blog)                         |  NextJs, TypeScript, Tailwind CSS   |
+| [**🔗 GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    |  ReactJs, Tailwind CSS  |
+| [**🔗 TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) |  ReactJs, Tailwind CSS  |
+| [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | HTML, CSS, JS, PhasorJs |
 
 ---
 
@@ -62,7 +63,6 @@
 | Project List                                                                  |            Languages             |
 | ----------------------------------------------------------------------------- | :------------------------------: |
 | [**🔗 Programming Notes**](https://github.com/amitsuthar69/Programming-Notes) | C++, Go, DSA, JavaScript, TypeScript |
-| [**🔗 HandOver**](https://github.com/amitsuthar69/handOver) | NextJs, TypeScript, Tailwind CSS |
 
 ---
 
