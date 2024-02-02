@@ -14,7 +14,7 @@
 
 ### 🌱 I’m currently learning
   
- - Go and Backend development.
+ - Go Backend development and Computer Networking.
  - Data Structures and Algorithms.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65410ecbc5b7df990dfde00e?variant=dark)](https://roadmap.sh)
