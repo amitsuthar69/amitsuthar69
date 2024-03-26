@@ -56,6 +56,7 @@
 | [**🔗 TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) |  ReactJs, Tailwind CSS  |
 | [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | HTML, CSS, JS, PhasorJs |
 | [**🔗 Pdf2Text web-service**](https://github.com/amitsuthar69/pdf2text/)                      | Go, Chi Router |
+| [**🔗 URL Shortener**](https://github.com/amitsuthar69/teleport/)                      | Go, Turso, HTMX |
 
 ---
 
