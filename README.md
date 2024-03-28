@@ -21,9 +21,9 @@
 
 ---
 
-<h3 align="center" style="font-weight: bold" >🌐 Find me at:</h3>
+<h3 style="font-weight: bold" >🌐 Find me at:</h3>
 
-<p align="center">
+<p>
 <a href="https://twitter.com/oyee_amitt" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="oyee_amitt"/></a>
 <a href="https://www.linkedin.com/in/amitsuthar69" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amit suthar"/></a>
 <a href="https://leetcode.com/sutharamit707/" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=leetcode&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsutharamit707&logo=leetcode&logoColor=yellow" alt="amit_suthar"/></a>
@@ -33,10 +33,10 @@
 
 ---
 
-<h3 align="center" style="font-weight: bold" >⚡ Languages and Tools:</h3>
-<p align="center"> 
-<code><img height="27" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="c++" title="c++"></code>
+<h3 style="font-weight: bold" >⚡ Languages and Tools:</h3>
+<p> 
 <code><img height="27" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go" title="go"></code>
+<code><img height="27" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="c++" title="c++"></code>
 <code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
 <code><img height="27" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" title="ts"></code>
 <code><img height="27" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react" title="react"></code>
@@ -70,7 +70,7 @@
 
 ### ⚡ GitHub Stats & Languages
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=amitsuthar69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsuthar69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=css,purebasic,python" height="170" alt="languages graph"  />
 </div>
