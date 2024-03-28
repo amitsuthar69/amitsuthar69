@@ -42,8 +42,7 @@
 <code><img height="27" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react" title="react"></code>
 <code><img height="27" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind" title="tailwind"></code>
 <code><img height="27" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" title="nextjs"></code>
-<code><img height="27" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" title="nodejs"></code>
-
+  
 ---
 
 ### 💡 Web Projects I've built / contributed to:
@@ -51,12 +50,12 @@
 | Project List                                                                          |        Languages        |
 | ------------------------------------------------------------------------------------- | :---------------------: |
 | [**🔗 HandOver**](https://github.com/amitsuthar69/handOver)                           | NextJs, TypeScript, Tailwind CSS |
-| [**🔗 Next-Blog**](https://github.com/amitsuthar69/next-blog)                         |  NextJs, TypeScript, Tailwind CSS   |
-| [**🔗 GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    |  ReactJs, Tailwind CSS  |
-| [**🔗 TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) |  ReactJs, Tailwind CSS  |
+| [**🔗 URL Shortener**](https://github.com/amitsuthar69/teleport/)                     | Go, Turso, HTMX |
 | [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | HTML, CSS, JS, PhasorJs |
-| [**🔗 Pdf2Text web-service**](https://github.com/amitsuthar69/pdf2text/)                      | Go, Chi Router |
-| [**🔗 URL Shortener**](https://github.com/amitsuthar69/teleport/)                      | Go, Turso, HTMX |
+| [**🔗 Pdf2Text web-service**](https://github.com/amitsuthar69/pdf2text/)              | Go, Chi Router  |
+| [**🔗 Next-Blog**](https://github.com/amitsuthar69/next-blog)                         | NextJs, TypeScript, Tailwind CSS |
+| [**🔗 TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) |  ReactJs, Tailwind CSS |
+| [**🔗 GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    |  ReactJs, Tailwind CSS |
 
 ---
 
