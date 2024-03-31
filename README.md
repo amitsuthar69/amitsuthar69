@@ -14,7 +14,7 @@
 
 ### 🌱 I’m currently learning
   
- - Go Backend development and Computer Networking.
+ - Backend development and Computer Networking.
  - Data Structures and Algorithms.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65410ecbc5b7df990dfde00e?variant=dark)](https://roadmap.sh)
@@ -47,23 +47,26 @@
 
 ### 💡 Web Projects I've built / contributed to:
 
-| Project List                                                                          |        Languages        |
-| ------------------------------------------------------------------------------------- | :---------------------: |
-| [**🔗 HandOver**](https://github.com/amitsuthar69/handOver)                           | NextJs, TypeScript, Tailwind CSS |
-| [**🔗 URL Shortener**](https://github.com/amitsuthar69/teleport/)                     | Go, Turso, HTMX |
-| [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | HTML, CSS, JS, PhasorJs |
-| [**🔗 Pdf2Text web-service**](https://github.com/amitsuthar69/pdf2text/)              | Go, Chi Router  |
-| [**🔗 Next-Blog**](https://github.com/amitsuthar69/next-blog)                         | NextJs, TypeScript, Tailwind CSS |
-| [**🔗 TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) |  ReactJs, Tailwind CSS |
-| [**🔗 GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    |  ReactJs, Tailwind CSS |
+| Full Stack                                                     |     Description       |        Stack            |
+| ---------------------------------------------------------------|-----------------------| :---------------------: |
+| 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)    | Resource Sharing site | NextJs, MongoDB         |
+| 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport/)   | A URL Shortener       | HTMX, Go, Turso         |
 
----
+| Frontend                                                                              | Description         |        Stack            |
+| --------------------------------------------------------------------------------------|---------------------| :---------------------: |
+| 🔗 [**Next-Blog**](https://github.com/amitsuthar69/next-blog)                         | Static Blog Website |  NextJs                 |
+| 🔗 [**TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) | Promotional Website |  ReactJs                |
+| 🔗 [**GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    | Event Website       |  ReactJs                |
+| 🔗 [**Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | 2D Maze Game        | JavaScript              |
 
-### 👨‍💻 I'm currently working on
+| Others                                                            | Description      |        Stack            |
+| ------------------------------------------------------------------|------------------| :---------------------: |
+| 🔗 [**Pdf2Text**](https://github.com/amitsuthar69/pdf2text/)      | Web Service      | Go, Chi Router          |
+| 🔗 [**Sun**](https://github.com/amitsuthar69/sun)                 | CLI Weather App  | Go                      |
 
-| Project List                                                                  |            Languages             |
-| ----------------------------------------------------------------------------- | :------------------------------: |
-| [**🔗 Programming Notes**](https://github.com/amitsuthar69/Programming-Notes) | C++, Go, DSA, JavaScript, TypeScript |
+| Resources                                                                     |            Languages                 |
+| ----------------------------------------------------------------------------- | :----------------------------------: |
+| 🔗 [**Programming Notes**](https://github.com/amitsuthar69/Programming-Notes) | C++, Go, DSA, JavaScript, TypeScript |
 
 ---
 
