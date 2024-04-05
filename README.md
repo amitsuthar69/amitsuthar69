@@ -61,6 +61,7 @@
 
 | Others                                                            | Description      |        Stack            |
 | ------------------------------------------------------------------|------------------| :---------------------: |
+| 🔗 [**GoTTH**](https://github.com/amitsuthar69/sun)               | GoTTH Stack Template | Go, Tailwind, Turso, Templ, HTMX |
 | 🔗 [**Pdf2Text**](https://github.com/amitsuthar69/pdf2text/)      | Web Service      | Go, Chi Router          |
 | 🔗 [**Sun**](https://github.com/amitsuthar69/sun)                 | CLI Weather App  | Go                      |
 
