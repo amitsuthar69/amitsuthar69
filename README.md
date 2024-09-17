@@ -4,11 +4,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6" alt="amitsuthar69" /> </p>
 
-- 👨‍💻 Frontend Developer at [TCET Open Source](https://github.com/tcet-opensource)
+- 👨‍💻 Experienced **Frontend Developer**.
 
 - 📫 Reach me at **sutharamit707@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://sutharamit707.hackerresume.io/9eb44265-87f3-49df-87a8-3edd6608d66c)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jGltlluBcoqeC65VxPP1OZtXz78zDiro/view?usp=sharing)
 
 ---
 
