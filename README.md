@@ -12,32 +12,23 @@
 
 ---
 
-### 🌱 I’m currently learning
-  
- - Backend development and Computer Networking.
- - Data Structures and Algorithms.
+<h3 style="font-weight: bold" >⚡ Languages and Tools:</h3>
+<p> 
+<img src="https://skillicons.dev/icons?i=go,js,nodejs,sqlite,mongodb" />
+<br/>
+<img src="https://skillicons.dev/icons?i=htmx,tailwindcss,react,vue,nextjs" />
+</p>
 
 ---
 
 <h3 style="font-weight: bold" >🌐 Find me at:</h3>
 
 <p>
-<a href="https://twitter.com/oyee_amitt" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="oyee_amitt"/></a>
-<a href="https://www.linkedin.com/in/amitsuthar69" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amit suthar"/></a>
-<a href="https://www.codechef.com/users/amit_suthar" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="sutharamit707"/></a>
+<a href="https://x.com/oyee_amitt"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://dev.to/amitsuthar69"><img src="https://skillicons.dev/icons?i=devto" /></a>
+<!-- <a href="https://www.linkedin.com/in/amitsuthar69"><img src="https://skillicons.dev/icons?i=linkedin" /></a> -->
 </p>
 
----
-
-<h3 style="font-weight: bold" >⚡ Languages and Tools:</h3>
-<p> 
-<code><img height="27" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go" title="go"></code>
-<code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
-<code><img height="27" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" title="ts"></code>
-<code><img height="27" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react" title="react"></code>
-<code><img height="27" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="tailwind" title="tailwind"></code>
-<code><img height="27" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" title="nextjs"></code>
-  
 ---
 
 ### 💡 Web Projects I've built / contributed to:
