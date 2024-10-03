@@ -14,9 +14,9 @@
 
 <h3 style="font-weight: bold" >⚡ Languages and Tools:</h3>
 <p> 
-<img src="https://skillicons.dev/icons?i=go,js,nodejs,sqlite,mongodb" />
+<img src="https://skillicons.dev/icons?i=go,js,nodejs,sqlite,mongodb,docker" />
 <br/>
-<img src="https://skillicons.dev/icons?i=htmx,tailwindcss,react,vue,nextjs" />
+<img src="https://skillicons.dev/icons?i=htmx,tailwindcss,react,vue,nextjs,arch" />
 </p>
 
 ---
