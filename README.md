@@ -35,10 +35,10 @@
 
 | Full Stack                                                     |     Description       |        Stack            |
 | ---------------------------------------------------------------|-----------------------| :---------------------: |
-| 🔗 [**Nenzy AI**](https://nenzy.ai)    | AI-driven SaaS for hiring | VueJS, ExpressJs, MongoDB         |
-| 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)    | Resource Sharing site | NextJs, MongoDB         |
-| 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport)   | A URL Shortener       | HTMX, Go, Turso         |
-| 🔗 [**PeerPod**](https://github.com/amitsuthar69/PeerPod)   | Department community chat platform | MERN |
+| 🔗 [**Nenzy AI**](https://nenzy.ai)                      | AI-driven SaaS for Hiring | VueJS, ExpressJs, MongoDB |
+| 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)    | Peer Resource Sharing Platform | NextJs, MongoDB|
+| 🔗 [**PeerPod**](https://github.com/amitsuthar69/PeerPod)      | Department Community Chat Platform | MERN Stack |
+| 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport)    | A URL Shortener       | HTMX, Go, Turso         |
 
 | Frontend                                                                              | Description         |        Stack            |
 | --------------------------------------------------------------------------------------|---------------------| :---------------------: |
