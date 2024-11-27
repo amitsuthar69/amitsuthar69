@@ -62,7 +62,7 @@
 ### ⚡ GitHub Stats & Languages
 
 <!-- prettier-ignore-start -->
-| [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&custom_title=My%20Github%20Stats&show_icons=true&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsuthar69&hide=GLSL,html,purebasic&theme=dracula&hide_border=true&border_radius=10&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    |
+| [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&custom_title=My%20Github%20Stats&show_icons=true&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsuthar69&hide=GLSL,html,purebasic,shell,typescript&theme=dracula&hide_border=true&border_radius=10&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    |
 |--------------- | --------------- |
 | [![GitHub Streak](https://streak-stats.demolab.com?user=amitsuthar69&theme=dracula&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)   | [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65410ecbc5b7df990dfde00e?variant=dark)](https://roadmap.sh)  |
 <!-- prettier-ignore-end -->
