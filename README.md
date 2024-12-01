@@ -24,7 +24,7 @@
 <h3 style="font-weight: bold" >🌐 Find me at:</h3>
 
 <p>
-<a href="https://x.com/oyee_amitt"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://x.com/notamitsuthar"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://dev.to/amitsuthar69"><img src="https://skillicons.dev/icons?i=devto" /></a>
 <!-- <a href="https://www.linkedin.com/in/amitsuthar69"><img src="https://skillicons.dev/icons?i=linkedin" /></a> -->
 </p>
