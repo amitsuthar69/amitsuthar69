@@ -33,9 +33,10 @@
 
 ### 💡 Web Projects I've built / contributed to:
 
-| Full Stack                                                     |     Description       |        Stack            |
+| Projects                                                       |     Description       |        Stack            |
 | ---------------------------------------------------------------|-----------------------| :---------------------: |
 | 🔗 [**Nenzy AI**](https://nenzy.ai)                      | AI-driven SaaS for Hiring | VueJS, ExpressJs, MongoDB |
+| 🔗 [**Attorney**](https://github.com/amitsuthar69/attorney)    | A lightweight HTTP/HTTPS forward proxy | Golang |
 | 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)    | Peer Resource Sharing Platform | NextJs, MongoDB|
 | 🔗 [**PeerPod**](https://github.com/amitsuthar69/PeerPod)      | Department Community Chat Platform | MERN Stack |
 | 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport)    | A URL Shortener       | HTMX, Go, Turso         |
@@ -49,7 +50,7 @@
 
 | Others                                                            | Description      |        Stack            |
 | ------------------------------------------------------------------|------------------| :---------------------: |
-| 🔗 [**GoTTH**](https://github.com/amitsuthar69/GoTTH)               | GoTTH Stack Template | Go, Tailwind, Turso, Templ, HTMX |
+| 🔗 [**GoTTH**](https://github.com/amitsuthar69/GoTTH)             | GoTTH Stack Template | Go, Tailwind, Turso, Templ, HTMX |
 | 🔗 [**Pdf2Text**](https://github.com/amitsuthar69/pdf2text/)      | Web Service      | Go, Chi Router          |
 | 🔗 [**Sun**](https://github.com/amitsuthar69/sun)                 | CLI Weather App  | Go                      |
 
@@ -61,11 +62,9 @@
 
 ### ⚡ GitHub Stats & Languages
 
-<!-- prettier-ignore-start -->
 | [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&custom_title=My%20Github%20Stats&show_icons=true&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsuthar69&hide=GLSL,html,purebasic,shell,typescript&theme=dracula&hide_border=true&border_radius=10&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    |
 |--------------- | --------------- |
 | [![GitHub Streak](https://streak-stats.demolab.com?user=amitsuthar69&theme=dracula&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)   | [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65410ecbc5b7df990dfde00e?variant=dark)](https://roadmap.sh)  |
-<!-- prettier-ignore-end -->
 
 ---
 <h3>📛 Holopin Hacktoberfest23 Badges</h3>
