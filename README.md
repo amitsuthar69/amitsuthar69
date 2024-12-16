@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6" alt="amitsuthar69" /> </p>
 
-- 👨‍💻 Experienced **Frontend Developer**.
+- 👨‍💻 Curiosity Driven Programmer.
 
 - 📫 Reach me at **sutharamit707@gmail.com**
 
@@ -33,13 +33,13 @@
 
 ### 💡 Web Projects I've built / contributed to:
 
-| Projects                                                       |     Description       |        Stack            |
-| ---------------------------------------------------------------|-----------------------| :---------------------: |
-| 🔗 [**Nenzy AI**](https://nenzy.ai)                      | AI-driven SaaS for Hiring | VueJS, ExpressJs, MongoDB |
-| 🔗 [**Attorney**](https://github.com/amitsuthar69/attorney)    | A lightweight HTTP/HTTPS forward proxy | Golang |
-| 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)    | Peer Resource Sharing Platform | NextJs, MongoDB|
-| 🔗 [**PeerPod**](https://github.com/amitsuthar69/PeerPod)      | Department Community Chat Platform | MERN Stack |
-| 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport)    | A URL Shortener       | HTMX, Go, Turso         |
+| Projects                                                              |     Description       |        Stack            |
+| ----------------------------------------------------------------------|-----------------------| :---------------------: |
+| 🔗 [**Nenzy AI**](https://nenzy.ai)                                    | AI-driven SaaS for Hiring | VueJS, ExpressJs, MongoDB|
+| 🔗 [**Attorney**](https://github.com/amitsuthar69/attorney-toolkit)    | A lightweight HTTP/HTTPS forward proxy | Golang, SQLite|
+| 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)            | Peer Resource Sharing Platform | NextJs, MongoDB|
+| 🔗 [**PeerPod**](https://github.com/amitsuthar69/PeerPod)              | Department Community Chat Platform | MERN Stack |
+| 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport)            | A URL Shortener       | HTMX, Go, Turso         |
 
 | Frontend                                                                              | Description         |        Stack            |
 | --------------------------------------------------------------------------------------|---------------------| :---------------------: |
