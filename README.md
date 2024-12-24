@@ -33,26 +33,22 @@
 
 ### 💡 Web Projects I've built / contributed to:
 
-| Projects                                                              |     Description       |        Stack            |
-| ----------------------------------------------------------------------|-----------------------| :---------------------: |
-| 🔗 [**Nenzy AI**](https://nenzy.ai)                                    | AI-driven SaaS for Hiring | VueJS, ExpressJs, MongoDB|
-| 🔗 [**Attorney**](https://github.com/amitsuthar69/attorney-toolkit)    | A lightweight HTTP/HTTPS forward proxy | Golang, SQLite|
-| 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)            | Peer Resource Sharing Platform | NextJs, MongoDB|
-| 🔗 [**PeerPod**](https://github.com/amitsuthar69/PeerPod)              | Department Community Chat Platform | MERN Stack |
-| 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport)            | A URL Shortener       | HTMX, Go, Turso         |
+| Personal Projects                                              |     Description                        |        Stack                    |
+| ---------------------------------------------------------------|----------------------------------------|:-------------------------------:|
+| 🔗 [**Nenzy AI**](https://nenzy.ai)                           | AI-driven SaaS for Hiring              | VueJS, ExpressJs, MongoDB        |
+| 🔗 [**Portsicle**](https://github.com/portsicle)              | Expose local servers on public network | Golang                           |
+| 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)   | Peer Resource Sharing Platform         | NextJs, MongoDB                  |
+| 🔗 [**GoTTH**](https://github.com/amitsuthar69/GoTTH)         | GoTTH Stack                            | Go, Tailwind, Turso, Templ, HTMX |
+| 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport)   | A URL Shortener                        | HTMX, Golang, Turso              |
+| 🔗 [**Pdf2Text**](https://github.com/amitsuthar69/pdf2text/)  | PDF to Text Web Service                | Golang, Chi Router               |
 
-| Frontend                                                                              | Description         |        Stack            |
-| --------------------------------------------------------------------------------------|---------------------| :---------------------: |
-| 🔗 [**Next-Blog**](https://github.com/amitsuthar69/next-blog)                         | Static Blog Website |  NextJs                 |
-| 🔗 [**TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) | Promotional Website |  ReactJs                |
-| 🔗 [**GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    | Event Website       |  ReactJs                |
-| 🔗 [**Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | 2D Maze Game        | JavaScript              |
-
-| Others                                                            | Description      |        Stack            |
-| ------------------------------------------------------------------|------------------| :---------------------: |
-| 🔗 [**GoTTH**](https://github.com/amitsuthar69/GoTTH)             | GoTTH Stack Template | Go, Tailwind, Turso, Templ, HTMX |
-| 🔗 [**Pdf2Text**](https://github.com/amitsuthar69/pdf2text/)      | Web Service      | Go, Chi Router          |
-| 🔗 [**Sun**](https://github.com/amitsuthar69/sun)                 | CLI Weather App  | Go                      |
+| Contributions                                                                         | Description         |        Stack      |
+| --------------------------------------------------------------------------------------|---------------------| :----------------:|
+| 🔗 [**PeerPod**](https://github.com/amitsuthar69/PeerPod)              | Department Community Chat Platform | MERN Stack        |
+| 🔗 [**Next-Blog**](https://github.com/amitsuthar69/next-blog)                         | Static Blog Website |  NextJs           |
+| 🔗 [**TOS HacktoberFest'23 site**](https://github.com/tcet-opensource/hacktober-fest) | Promotional Website |  ReactJs          |
+| 🔗 [**GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    | Event Website       |  ReactJs          |
+| 🔗 [**Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | 2D Maze Game        | JavaScript        |
 
 | Resources                                                                     |            Languages                 |
 | ----------------------------------------------------------------------------- | :----------------------------------: |
