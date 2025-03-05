@@ -38,6 +38,7 @@
 | 🔗 [**Nenzy AI**](https://nenzy.ai)                           | AI-driven SaaS for Hiring              | VueJS, ExpressJs, MongoDB        |
 | 🔗 [**Portsicle**](https://github.com/portsicle)              | Expose local servers on public network | Golang                           |
 | 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)   | Peer Resource Sharing Platform         | NextJs, MongoDB                  |
+| 🔗 [**Socket Share**](https://github.com/amitsuthar69/socket.share/)  | Peer to peer File sharing App  | Golang                           |
 | 🔗 [**GoTTH**](https://github.com/amitsuthar69/GoTTH)         | GoTTH Stack                            | Go, Tailwind, Turso, Templ, HTMX |
 | 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport)   | A URL Shortener                        | HTMX, Golang, Turso              |
 | 🔗 [**Pdf2Text**](https://github.com/amitsuthar69/pdf2text/)  | PDF to Text Web Service                | Golang, Chi Router               |
@@ -50,9 +51,10 @@
 | 🔗 [**GDSC Compose Camp Site**](https://github.com/amitsuthar69/gdsc-compose-camp)    | Event Website       |  ReactJs          |
 | 🔗 [**Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                      | 2D Maze Game        | JavaScript        |
 
-| Resources                                                                     |            Languages                 |
-| ----------------------------------------------------------------------------- | :----------------------------------: |
-| 🔗 [**Programming Notes**](https://github.com/amitsuthar69/Programming-Notes) | C++, Go, DSA, JavaScript, TypeScript |
+| Resources                                                                     | Description                                |          Languages                   |
+| ----------------------------------------------------------------------------- | -------------------------------------------|:------------------------------------:|
+| 🔗 [**libs**](https://github.com/amitsuthar69/libs)                           | Implementing useful libraries for practice | Go                                   |
+| 🔗 [**Programming Notes**](https://github.com/amitsuthar69/Programming-Notes) | Reference Notes                            | C++, Go, DSA, JavaScript, TypeScript |
 
 ---
 
