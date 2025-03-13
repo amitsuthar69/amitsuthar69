@@ -1,22 +1,11 @@
 <!-- <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" /> -->
-<h1 align="center" style="font-weight: bold">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm Amit Suthar</h1>
-<!-- <h3 align="center">Frontend Developer</h3> -->
-
+<h2 align="center" style="font-weight: bold">Amit Suthar</h2>
+<p align="center">Curiosity Driven Programmer</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6" alt="amitsuthar69" /> </p>
-
-- 👨‍💻 Curiosity Driven Programmer.
-
-- 📫 Reach me at **sutharamit707@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jGltlluBcoqeC65VxPP1OZtXz78zDiro/view?usp=sharing)
-
----
 
 <h3 style="font-weight: bold" >⚡ Languages and Tools:</h3>
 <p> 
-<img src="https://skillicons.dev/icons?i=go,js,nodejs,sqlite,mongodb,docker" />
-<br/>
-<img src="https://skillicons.dev/icons?i=htmx,tailwindcss,react,vue,nextjs,arch" />
+<img src="https://skillicons.dev/icons?i=go,js,nodejs,sqlite,mongodb,htmx,react,vue,nextjs,tailwindcss,docker,arch" />
 </p>
 
 ---
