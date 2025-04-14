@@ -1,6 +1,4 @@
-<!-- <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" /> -->
-<h2 align="center" style="font-weight: bold">Amit Suthar</h2>
-<p align="center">Curiosity Driven Programmer</p>
+<h1 align="center" style="font-weight: bold">Amit Suthar</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6" alt="amitsuthar69" /> </p>
 
 <h3 style="font-weight: bold" >⚡ Languages and Tools:</h3>
@@ -24,15 +22,16 @@
 
 ### 💡 Web Projects I've built / contributed to:
 
-| Personal Projects                                              |     Description                        |        Stack                    |
-| ---------------------------------------------------------------|----------------------------------------|:-------------------------------:|
+| Personal Projects                                              |     Description                       |         Languague                |
+| ---------------------------------------------------------------|---------------------------------------|:--------------------------------:|
 | 🔗 [**Nenzy AI**](https://nenzy.ai)                           | AI-driven SaaS for Hiring              | VueJS, ExpressJs, MongoDB        |
 | 🔗 [**Portsicle**](https://github.com/portsicle)              | Expose local servers on public network | Golang                           |
 | 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)   | Peer Resource Sharing Platform         | NextJs, MongoDB                  |
-| 🔗 [**Socket Share**](https://github.com/amitsuthar69/socket.share/)  | Peer to peer File sharing App  | Golang                           |
+| 🔗 [**Socket Share**](https://github.com/amitsuthar69/socket.share/)  | Peer to peer File sharing App  | Golang, Wails                    |
 | 🔗 [**GoTTH**](https://github.com/amitsuthar69/GoTTH)         | GoTTH Stack                            | Go, Tailwind, Turso, Templ, HTMX |
+| 🔗 [**Flow**](https://github.com/amitsuthar69/flow)           | Live Reload for Golang Apps            | Golang                           |
 | 🔗 [**Teleport**](https://github.com/amitsuthar69/teleport)   | A URL Shortener                        | HTMX, Golang, Turso              |
-| 🔗 [**Pdf2Text**](https://github.com/amitsuthar69/pdf2text/)  | PDF to Text Web Service                | Golang, Chi Router               |
+| 🔗 [**Pdf2Text**](https://github.com/amitsuthar69/pdf2text/)  | API to Extract text from PDF           | Golang, Chi Router               |
 
 | Contributions                                                                         | Description         |        Stack      |
 | --------------------------------------------------------------------------------------|---------------------| :----------------:|
@@ -45,7 +44,7 @@
 | Resources                                                                     | Description                                |          Languages                   |
 | ----------------------------------------------------------------------------- | -------------------------------------------|:------------------------------------:|
 | 🔗 [**libs**](https://github.com/amitsuthar69/libs)                           | Implementing useful libraries for practice | Go                                   |
-| 🔗 [**Programming Notes**](https://github.com/amitsuthar69/Programming-Notes) | Reference Notes                            | C++, Go, DSA, JavaScript, TypeScript |
+| 🔗 [**Programming Notes**](https://github.com/amitsuthar69/Programming-Notes) | Reference Notes                            | C++, Go, DSA, Algo, JS, TS           |
 
 ---
 
