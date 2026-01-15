@@ -1,26 +1,14 @@
 <h1 align="center" style="font-weight: bold">Amit Suthar</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6" alt="amitsuthar69" /> </p>
 
-<h3 style="font-weight: bold" >⚡ Languages and Tools:</h3>
+<!-- <h3 style="font-weight: bold" >⚡ Languages and Tools:</h3>
 <p> 
 <img src="https://skillicons.dev/icons?i=go,js,nodejs,sqlite,mongodb,docker" />
 <br/>
 <img src="https://skillicons.dev/icons?i=htmx,tailwindcss,react,vue,nextjs,arch" />
-</p>
+</p> -->
 
----
-
-<h3 style="font-weight: bold" >🌐 Find me at:</h3>
-
-<p>
-<a href="https://x.com/notamitsuthar"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://dev.to/amitsuthar69"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<!-- <a href="https://www.linkedin.com/in/amitsuthar69"><img src="https://skillicons.dev/icons?i=linkedin" /></a> -->
-</p>
-
----
-
-### 💡 Web Projects I've built / contributed to:
+### Projects I've built / contributed to:
 
 | Personal Projects                                              |     Description                       |         Languague                |
 | ---------------------------------------------------------------|---------------------------------------|:--------------------------------:|
@@ -46,21 +34,6 @@
 | 🔗 [**libs**](https://github.com/amitsuthar69/libs)                           | Implementing useful libraries for practice | Go                                   |
 | 🔗 [**Programming Notes**](https://github.com/amitsuthar69/Programming-Notes) | Reference Notes                            | C++, Go, DSA, Algo, JS, TS           |
 
----
-
-### ⚡ GitHub Stats & Languages
-
-| [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthar69&custom_title=My%20Github%20Stats&show_icons=true&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsuthar69&hide=GLSL,html,purebasic,shell,typescript&theme=dracula&hide_border=true&border_radius=10&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    |
-|--------------- | --------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=amitsuthar69&theme=dracula&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)   | [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65410ecbc5b7df990dfde00e?variant=dark)](https://roadmap.sh)  |
-
----
-<h3>📛 Holopin Hacktoberfest23 Badges</h3>
+### Hacktoberfest Badges
 
 [![An image of @amitsuthar69's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitsuthar69)](https://holopin.io/@amitsuthar69)
-
----
-
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amitsuthar69&theme=tokyo-night&radius=16)
-
-</div>
