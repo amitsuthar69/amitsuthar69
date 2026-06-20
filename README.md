@@ -10,9 +10,9 @@
 
 ### Projects I've built / contributed to:
 
-| Personal Projects                                              |     Description                       |         Languague                |
-| ---------------------------------------------------------------|---------------------------------------|:--------------------------------:|
-| 🔗 [**Nenzy AI**](https://nenzy.ai)                           | AI-driven SaaS for Hiring              | VueJS, ExpressJs, MongoDB        |
+| Personal Projects                                             |     Description                       |         Languague                 |
+| --------------------------------------------------------------|---------------------------------------|:---------------------------------:|
+| 🔗 [**Parsel**](https://github.com/amitsuthar69/parsel)       | Distributed log aggregation & streaming | Golang                          |
 | 🔗 [**Portsicle**](https://github.com/portsicle)              | Expose local servers on public network | Golang                           |
 | 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver)   | Peer Resource Sharing Platform         | NextJs, MongoDB                  |
 | 🔗 [**Socket Share**](https://github.com/amitsuthar69/socket.share/)  | Peer to peer File sharing App  | Golang, Wails                    |
