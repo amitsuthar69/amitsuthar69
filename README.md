@@ -1,6 +1,5 @@
 <h1 align="center" style="font-weight: bold">Amit Suthar</h1>
 <h3 align="center" style="font-weight: bold">Software Engineer (Backend)</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amitsuthar69&label=Profile%20views&color=0e75b6" alt="amitsuthar69" /> </p>
 
 <!-- <h3 style="font-weight: bold" >⚡ Languages and Tools:</h3>
 <p> 
