@@ -13,8 +13,10 @@
 
 | Projects / Resource | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🔗 [**reConsyl**](https://github.com/amitsuthar69/reConsyl) | A runtime state-reconciliation engine for event streams | Golang, Redis, Postgres |
+| 🔗 [**reConsyl**](https://github.com/amitsuthar69/reConsyl) | Runtime state-recon engine for event streams | Golang, Redis, Postgres |
+| 🔗 [**Clippy**](https://github.com/amitsuthar69/clippy) | AI powered Viral Clip Generator | Python, FFMPEG, Javascript |
 | 🔗 [**Parsel**](https://github.com/amitsuthar69/parsel) | Distributed log aggregation & streaming | Golang, Redis |
+| 🔗 [**NeuWidget**](https://github.com/amitsuthar69/NeuWidget) | Electron free framework to build desktop widgets | JavaScript, NeutralinoJS |
 | 🔗 [**Portsicle**](https://github.com/portsicle) | Expose local servers on public network | Golang |
 | 🔗 [**HandOver**](https://github.com/amitsuthar69/handOver) | Peer Resource Sharing Platform | NextJs, MongoDB |
 | 🔗 [**Socket Share**](https://github.com/amitsuthar69/socket.share/) | Peer to peer File sharing App | Golang, Wails |
